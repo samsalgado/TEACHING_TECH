@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JavaScript, Python, Solidity,
 - 💞️ I’m looking to collaborate on ... building decentralized Medicine application with: Alternative Medicine telehealth directory, digital Apothecary fortified by Permissioned Blockchain and sold via Permissionless Blockchain, and dApp for censorship resistance and easy access to a decentralized digital apothecary.
 
-                                          -Languages Needed: Python, JavaScript, Solidity, Hyperledger Fabric(Go Lang, Java, JavaScript) 
+                                          -Languages Needed: Python, JavaScript, Solidity, Hyperledger Fabric(JavaScript) 
 - 📫 How to reach me ... samueljuansalgado@gmail.com, https://www.linkedin.com/in/blockchainmerlin/ 
 
 <!---
