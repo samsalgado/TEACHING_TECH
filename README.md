@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @THEMERLINGROUP, Co-founder of Change Agent and international tech-consulting company, The Merlin Group. The Merlin Group is personally and professionally invested in the re-emergence of regenerative medicine and broadening access to these revolutionary therapies. Constructing DecentMed: a decentralized application showcasing an Alternative Medicine telehealth directory and global digital apothecary featuring plants as medicine.
 - 👀 I’m interested in ... Blockchain Development, Smart Contract programming, dApp creation, A.I integration with Python, data storage
-- 🌱 I’m currently learning ... JavaScript, Python, Solidity
-- 💞️ I’m looking to collaborate on ... building DecentMed: Alternative Medicine telehealth directory and digital Apothecary fortified by the Blockchain for its censorship resistance, efficiency in supply chain, and ease of access for a global apothecary.
+- 🌱 I’m currently learning ... JavaScript, Python, Solidity, Haskell, Rust
+- 💞️ I’m looking to collaborate on ... building DecentMed: Blockchain dApp decentralizing healthcare in 3 phases:Phase1- re-education on healthcare including supression of alternatives and efforts to keep you sick by Organized Medicine, advocation of medical freedom, and showcase of preventative medicine and Alternative Medicine. Phase2: Telehealth Alternative Medicine directory on Blockchain showcasing various Alternative Medicine types and featuring practitioners globally and a DAO serving as Decentralized Insurance to make these treatments cheaper. Phase 3: Global Digital Apothecary on the Blockchain including rare plants and herbs from around the globe. 
 
-                                          -Languages Needed: Python, JavaScript, Solidity, Hyperledger Fabric(JavaScript) 
+                                          -Languages Needed: JSX(React),JavaScript, Solidity, Haskell, Plutus, C++ 
 - 📫 How to reach me ... samueljuansalgado@gmail.com, https://www.linkedin.com/in/blockchainmerlin/ 
 
 <!---
