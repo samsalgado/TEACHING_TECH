@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @THEMERLINGROUP, Change agents optimizing archaic business systems with Blockchain technology. The Merlin Group is personally and professionally invested in the re-emergence of regenerative medicine and broadening access to these revolutionary therapies.
+- 👋 Hi, I’m @THEMERLINGROUP, Change agents optimizing archaic business systems with Blockchain technology. The Merlin Group is personally and professionally invested in the re-emergence of regenerative medicine and broadening access to these revolutionary therapies. Current backend Python developer with applied Django and PSQL skills, also Blockchain developer crafting a Blockchain via a C++ and constructing smart contracts in Rust.
 - 👀 I’m interested in ... Bitcoin, Blockchain Engineering, React Native, React
 - 🌱 I’m currently learning ...  Rust, C++
-- 💞️ I’m looking to collaborate on ... building DecentMed: Looking for developers proficient in C++, React, React Native, and other blockchain engineering languages
+- 💞️ I’m looking to collaborate on ... building DecentMed: Looking for developers proficient in C++, Clarity, React, React Native, and other blockchain engineering languages
 - 
 
                                           -Languages Needed: Clarity, C++, React Native
